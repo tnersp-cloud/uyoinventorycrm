@@ -11,7 +11,12 @@
   "dependencies": {
     "next": "16.2.9",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "lucide-react": "*",
+    "@supabase/supabase-js": "*",
+    "@supabase/ssr": "*",
+    "clsx": "*",
+    "tailwind-merge": "*"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
